@@ -45,7 +45,6 @@
 [![What are the comparative advantages and limitations of using the point cloud library (PCL) and the Robot Operating System (ROS) in the context of Autonomous Navigation?][product-screenshot]](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
 
 ## Abstract
-Abstract: July 8th 2023
 Achieving efficient and reliable performance with software frameworks is crucial for Autonomous Navigation with modern robotic systems. This research compares the Point Cloud Library (PCL) and the Robot Operating System (ROS) for autonomous navigation applications. The purpose of this research is to provide insights into comparative advantages and limitations of both frameworks, aiding researchers and developers with informed decision-making for their chosen autonomous systems.
 
 A comprehensive evaluation will be conducted, encompassing various aspects such as sensor integration, perception algorithms, mapping, localization, and path planning. The evaluation will involve benchmarking experiments, where PCL and ROS are implemented and assessed in simulated and real-world autonomous navigation scenarios. Performance metrics, including processing time and accuracy , will be measured, documented and analyzed.
@@ -70,8 +69,8 @@ The results of this research will show the strengths and weaknesses of PCL and R
 <!-- RESOURCES -->
 ## Resources
 
-* [Autonomous Navigation using LiDAR and Agile X Robotics (rneddojr)](https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics)
-* [MoniGarr.com](https://www.MoniGarr.com
+* [Autonomous Navigation using LiDAR and Agile X Robotics rneddojr](https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics)
+* [Comparative Analysis of ROS, PCL and Alternatives WIP](https://docs.google.com/spreadsheets/d/1fzyKzqSBKZZ2eaqhuFIce23chXcqQjamW7P-skc1OKw/edit?usp=sharing)
 * [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
 * [NVIDIA Omniverse](https://docs.omniverse.nvidia.com/install-guide/latest/index.html)
 * [PointClouds.org](https://pointclouds.org/)
