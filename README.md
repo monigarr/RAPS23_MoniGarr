@@ -84,16 +84,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+MoniGarr is a Junior (final semester) at Clarkson University working on earning their Bachelor of Computer Science Degree focused on Software Engineering. They are also in the Honor Program because they wanted to get more experience and training with Academic Research.
+The Clarkson University Honor Program prepares students to present their choice of research at the annual RAPS (Research and Project Showcase) by 
+presenting their research on an academic poster and presenting a three minute verbal thesis of their summer research project.  MoniGarr is currently a Summer Pre-Frosh Honor Student working on their RAPS 2023 project, as of July 18th 2023.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -101,16 +94,12 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Frameworks/libraries used to bootstrap your project.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Ros.org](https://ros.org/)
+* [PointClouds.org](https://pointclouds.org/)
+* [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
+* [Autonomous Navigation using LiDAR and Agile X Robotics (rneddojr)](https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -119,38 +108,17 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+* Real World Robotics Lab Setup: https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics 
+
+* Synthetic Data Setup NVIDIA Omniverse: https://docs.omniverse.nvidia.com/install-guide/latest/index.html 
 
 ### Prerequisites
+* Real World Robotics Lab: Linux Computers, Robotics Hardware (sensors, LiDAR cameras, Physical Space for safe testing)
+* Real World Robotics Lab: ROS, PCL, Python, 
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+* Synthetic Data Lab: NVIDIA Omniverse (Isaac Sim): Local and or Cloud
+* Synthetic Data Lab: Python
+* 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
