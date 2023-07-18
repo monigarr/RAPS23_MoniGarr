@@ -84,9 +84,9 @@ The results of this research will show the strengths and weaknesses of PCL and R
 <!-- CONTACT -->
 ## Contact
 
-MoniGarr - [@monigarr](https://www.MoniGarr.com) - monigarr@MoniGarr.com
+[MoniGarr](https://www.MoniGarr.com) - monigarr@MoniGarr.com
 
-Github.com/monigarr/RAPS23_MoniGarr: [https://github.com/monigarr/RAPS23_MoniGarr](https://github.com/monigarr/RAPS23_MoniGarr)
+[Github.com/monigarr/RAPS23_MoniGarr](https://github.com/monigarr/RAPS23_MoniGarr)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
