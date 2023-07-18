@@ -82,9 +82,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![What are the comparative advantages and limitations of using the point cloud library (PCL) and the Robot Operating System (ROS) in the context of Autonomous Navigation?][product-screenshot]](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
+[![What are the comparative advantages and limitations of using the point cloud library (PCL) and the Robot Operating System (ROS) in the context of Autonomous Navigation?][DRAFT_WIP_MoniGarr_Clarkson_RAPS2023_Poster]](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
 
-Abstract:
+Abstract: July 8th 2023
 Achieving efficient and reliable performance with software frameworks is crucial for Autonomous Navigation with modern robotic systems. This research compares the Point Cloud Library (PCL) and the Robot Operating System (ROS) for autonomous navigation applications. The purpose of this research is to provide insights into comparative advantages and limitations of both frameworks, aiding researchers and developers with informed decision-making for their chosen autonomous systems.
 
 A comprehensive evaluation will be conducted, encompassing various aspects such as sensor integration, perception algorithms, mapping, localization, and path planning. The evaluation will involve benchmarking experiments, where PCL and ROS are implemented and assessed in simulated and real-world autonomous navigation scenarios. Performance metrics, including processing time and accuracy , will be measured, documented and analyzed.
@@ -106,6 +106,16 @@ Clarkson University, Honors Program, RAPS 2023, Frameworks/libraries used to boo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+### Acknowledgements
+ACKNOWLEDGEMENTS
+MoniGarr is grateful to the following people and organizations for supporting this summer research project. 
+
+Corning Inc.
+Clarkson University Honors Summer Research Program
+Advisors: Dr. Kate Krueger & Dr. Chen Liu 
+Mentors: Irwing Vielma & Hovan Liu
+Computer Architecture and Microprocessor Engineering Lab (CAMEL)  camel.clarkson.edu
 
 
 <!-- GETTING STARTED -->
