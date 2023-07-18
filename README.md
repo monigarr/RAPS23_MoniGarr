@@ -82,20 +82,23 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![What are the comparative advantages and limitations of using the point cloud library (PCL) and the Robot Operating System (ROS) in the context of Autonomous Navigation?][product-screenshot]](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
 
-MoniGarr is a Junior (final semester) at Clarkson University working on earning their Bachelor of Computer Science Degree focused on Software Engineering. They are also in the Honor Program because they wanted to get more experience and training with Academic Research.
-The Clarkson University Honor Program prepares students to present their choice of research at the annual RAPS (Research and Project Showcase) by 
-presenting their research on an academic poster and presenting a three minute verbal thesis of their summer research project.  MoniGarr is currently a Summer Pre-Frosh Honor Student working on their RAPS 2023 project, as of July 18th 2023.
+Abstract:
+Achieving efficient and reliable performance with software frameworks is crucial for Autonomous Navigation with modern robotic systems. This research compares the Point Cloud Library (PCL) and the Robot Operating System (ROS) for autonomous navigation applications. The purpose of this research is to provide insights into comparative advantages and limitations of both frameworks, aiding researchers and developers with informed decision-making for their chosen autonomous systems.
 
+A comprehensive evaluation will be conducted, encompassing various aspects such as sensor integration, perception algorithms, mapping, localization, and path planning. The evaluation will involve benchmarking experiments, where PCL and ROS are implemented and assessed in simulated and real-world autonomous navigation scenarios. Performance metrics, including processing time and accuracy , will be measured, documented and analyzed.
+
+The results of this research will show the strengths and weaknesses of PCL and ROS, creating a comparative analysis of their features and limitations for autonomous navigation. The findings will highlight areas where each framework excels and where improvements are needed. Ultimately, this research plans to contribute insights to the field of autonomous navigation, to assist with the selection of suitable software frameworks and foster advancements in autonomous systems.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ### Built With
 
-Frameworks/libraries used to bootstrap your project.
+Clarkson University, Honors Program, RAPS 2023, Frameworks/libraries used to bootstrap this project.
 
+* [RAPS 2023](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
 * [Ros.org](https://ros.org/)
 * [PointClouds.org](https://pointclouds.org/)
 * [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
@@ -134,15 +137,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [x] Week 2: Submit Written Abstract
+- [x] Week 3: Submit Research Proposal & Thank You Letters
+- [ ] Week 4: Send Poster Final Draft to Mentors, Advisors. Practice 3 minute verbal thesis.
+- [ ] Week 5: Poster Final Print. 3 Minute Verbal Thesis Preview.
+- [ ] Week 5: Summer RAPS event. Present poster and 3 minute thesis.
+    - [ ] Week 5: focus group, debrief, summer post-experience reflection.
+    - [ ] Week 5: Done - take a mini vacation before Fall 2023 School Semester Starts.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
