@@ -34,6 +34,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About</a></li>
+    <li><a href="#abstract">Abstract</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#resources">Resources</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -48,6 +49,7 @@
 
 [![What are the comparative advantages and limitations of using the point cloud library (PCL) and the Robot Operating System (ROS) in the context of Autonomous Navigation?][product-screenshot]](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
 
+## Abstract
 Abstract: July 8th 2023
 Achieving efficient and reliable performance with software frameworks is crucial for Autonomous Navigation with modern robotic systems. This research compares the Point Cloud Library (PCL) and the Robot Operating System (ROS) for autonomous navigation applications. The purpose of this research is to provide insights into comparative advantages and limitations of both frameworks, aiding researchers and developers with informed decision-making for their chosen autonomous systems.
 
@@ -71,8 +73,7 @@ The results of this research will show the strengths and weaknesses of PCL and R
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- RESOURCES -->
-### Resources
-RESOURCES
+## Resources
 
 * [RAPS 2023](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
 * [Ros.org](https://ros.org/)
@@ -94,7 +95,7 @@ Github.com/monigarr/RAPS23_MoniGarr: [https://github.com/monigarr/RAPS23_MoniGar
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Acknowledgements
+## Acknowledgements
 MoniGarr acknowledges the following for supporting their summer research project:
 
 * Corning Inc.
