@@ -33,19 +33,9 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#resources">Resources</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -67,42 +57,12 @@ The results of this research will show the strengths and weaknesses of PCL and R
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-### Built With
-
-Clarkson University, Honors Program, RAPS 2023, Frameworks/libraries used to bootstrap this project.
-
-* [RAPS 2023](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
-* [Ros.org](https://ros.org/)
-* [PointClouds.org](https://pointclouds.org/)
-* [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
-* [Autonomous Navigation using LiDAR and Agile X Robotics (rneddojr)](https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-* Real World Robotics Lab Setup: https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics 
-
-* Synthetic Data Setup NVIDIA Omniverse: https://docs.omniverse.nvidia.com/install-guide/latest/index.html 
-
-### Prerequisites
-* Real World Robotics Lab: Linux Computers, Robotics Hardware (sensors, LiDAR cameras, Physical Space for safe testing)
-* Real World Robotics Lab: ROS, PCL, Python, 
-
-* Synthetic Data Lab: NVIDIA Omniverse (Isaac Sim): Local and or Cloud
-* Synthetic Data Lab: Python
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
 - [x] Week 2: Submit Written Abstract
 - [x] Week 3: Submit Research Proposal & Thank You Letters
-- [ ] Week 4: Send Poster Final Draft to Mentors, Advisors. Practice 3 minute verbal thesis.
+- [x] Week 4: Send Poster Final Draft to Mentors, Advisors. Practice 3 minute verbal thesis.
 - [ ] Week 5: Poster Final Print. 3 Minute Verbal Thesis Preview.
 - [ ] Week 5: Summer RAPS event. Present poster and 3 minute thesis.
     - [ ] Week 5: focus group, debrief, summer post-experience reflection.
@@ -110,27 +70,38 @@ Clarkson University, Honors Program, RAPS 2023, Frameworks/libraries used to boo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- RESOURCES -->
+### Resources
+RESOURCES
+
+* [RAPS 2023](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
+* [Ros.org](https://ros.org/)
+* [PointClouds.org](https://pointclouds.org/)
+* [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
+* [Autonomous Navigation using LiDAR and Agile X Robotics (rneddojr)](https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics)
+* [NVIDIA Omniverse](https://docs.omniverse.nvidia.com/install-guide/latest/index.html)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@monigarr](https://www.MoniGarr.com) - monigarr@MoniGarr.com
+MoniGarr - [@monigarr](https://www.MoniGarr.com) - monigarr@MoniGarr.com
 
-Project Link: [https://github.com/monigarr/RAPS23_MoniGarr](https://github.com/monigarr/RAPS23_MoniGarr)
+Github.com/monigarr/RAPS23_MoniGarr: [https://github.com/monigarr/RAPS23_MoniGarr](https://github.com/monigarr/RAPS23_MoniGarr)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Acknowledgements
-ACKNOWLEDGEMENTS
 MoniGarr acknowledges the following for supporting their summer research project:
 
 * Corning Inc.
 * Clarkson University Honors Summer Research Program
 * Advisors: Dr. Kate Krueger & Dr. Chen Liu 
 * Mentors: Irwing Vielma & Hovan Liu
-* Computer Architecture and Microprocessor Engineering Lab (CAMEL)  camel.clarkson.edu
+* Computer Architecture and Microprocessor Engineering Lab (CAMEL)  [camel.clarkson.edu](https://camel.clarkson.edu)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
