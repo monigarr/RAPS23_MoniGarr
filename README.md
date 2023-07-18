@@ -69,7 +69,7 @@ The results of this research will show the strengths and weaknesses of PCL and R
 <!-- RESOURCES -->
 ## Resources
 
-* [Augmented Reality View: 3D Agile X Scout Mini Robot](https://adobeaero.app.link/f4YSe6WpiBb)
+* [Augmented Reality View: 3D Agile X Scout Mini Robot](https://adobeaero.app.link/f4YSe6WpiBb) [3D Model by Yuan Shenghai](https://grabcad.com/library/agilex-robotics-scout-mini-robot-1)
 * [Autonomous Navigation using LiDAR and Agile X Robotics rneddojr](https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics)
 * [Comparative Analysis of ROS, PCL and Alternatives WIP](https://docs.google.com/spreadsheets/d/1fzyKzqSBKZZ2eaqhuFIce23chXcqQjamW7P-skc1OKw/edit?usp=sharing)
 * [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
