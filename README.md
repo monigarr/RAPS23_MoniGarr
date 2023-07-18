@@ -70,12 +70,13 @@ The results of this research will show the strengths and weaknesses of PCL and R
 <!-- RESOURCES -->
 ## Resources
 
+* [Autonomous Navigation using LiDAR and Agile X Robotics (rneddojr)](https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics)
+* [MoniGarr.com](https://www.MoniGarr.com
+* [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
+* [NVIDIA Omniverse](https://docs.omniverse.nvidia.com/install-guide/latest/index.html)
+* [PointClouds.org](https://pointclouds.org/)
 * [RAPS 2023](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
 * [Ros.org](https://ros.org/)
-* [PointClouds.org](https://pointclouds.org/)
-* [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
-* [Autonomous Navigation using LiDAR and Agile X Robotics (rneddojr)](https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics)
-* [NVIDIA Omniverse](https://docs.omniverse.nvidia.com/install-guide/latest/index.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
