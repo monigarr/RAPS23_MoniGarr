@@ -45,12 +45,16 @@
 
 [![What are the comparative advantages and limitations of using the point cloud library (PCL) and the Robot Operating System (ROS) in the context of Autonomous Navigation?][product-screenshot]](https://docs.google.com/presentation/d/1jdFIkRGwodM3gDKng64XyrKtpM39SbK5/edit?usp=sharing&ouid=116099391833816183949&rtpof=true&sd=true)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 ## Abstract
 Achieving efficient and reliable performance with software frameworks is crucial for Autonomous Navigation with modern robotic systems. This research compares the Point Cloud Library (PCL) and the Robot Operating System (ROS) for autonomous navigation applications. The purpose of this research is to provide insights into comparative advantages and limitations of both frameworks, aiding researchers and developers with informed decision-making for their chosen autonomous systems.
 
 A comprehensive evaluation will be conducted, encompassing various aspects such as sensor integration, perception algorithms, mapping, localization, and path planning. The evaluation will involve benchmarking experiments, where PCL and ROS are implemented and assessed in simulated and real-world autonomous navigation scenarios. Performance metrics, including processing time and accuracy , will be measured, documented and analyzed.
 
 The results of this research will show the strengths and weaknesses of PCL and ROS, creating a comparative analysis of their features and limitations for autonomous navigation. The findings will highlight areas where each framework excels and where improvements are needed. Ultimately, this research plans to contribute insights to the field of autonomous navigation, to assist with the selection of suitable software frameworks and foster advancements in autonomous systems.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -97,6 +101,8 @@ ROBOT DESCRIPTIONS:
 * orokótshera
 * Okwe teskaierontare kaia'ton:niserothatses (needs more verification. possibly West Dialect)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- CONTACT -->
 ## Contact
 
@@ -115,6 +121,7 @@ MoniGarr acknowledges the following for supporting their summer research project
 * Mentors: Irwing Vielma & Hovan Liu
 * Computer Architecture and Microprocessor Engineering Lab (CAMEL)  [camel.clarkson.edu](https://camel.clarkson.edu)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
