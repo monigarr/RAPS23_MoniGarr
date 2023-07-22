@@ -84,17 +84,18 @@ The results of this research will show the strengths and weaknesses of PCL and R
 
 <!-- KANIENKEHA -->
 ## Kanienkeha
-* kí:ken  / thí:ken     its
-* Ioronhió:ron     its cloudy
+* kí:ken - it's
+* thí:ken     - it's
+* Ioronhió:ron     - it's cloudy
 
 ROBOT DESCRIPTIONS:
-* kahnháhtshera - a servant. 
-* konwáhnha's - they employ it. 
-* konwa'nikonhráta'as - they give it sense. 
-* karistotáties - metal that walks around. 
+* kahnháhtshera - a servant
+* konwáhnha's - they employ it 
+* konwa'nikonhráta'as - they give it sense 
+* karistotáties - metal that walks around 
 * orokò:ta
 * orokótshera
-* Okwe teskaierontare kaia'ton;niserothatses
+* Okwe teskaierontare kaia'ton:niserothatses (needs more verification. possibly West Dialect)
 
 <!-- CONTACT -->
 ## Contact
