@@ -32,6 +32,7 @@
     <li><a href="#abstract">Abstract</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#resources">Resources</a></li>
+    <li><a href="#kanienkeha">Kanien’kéha</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -72,6 +73,7 @@ The results of this research will show the strengths and weaknesses of PCL and R
 * [Augmented Reality View: 3D Agile X Scout Mini Robot](https://adobeaero.app.link/f4YSe6WpiBb) [3D Model by Yuan Shenghai](https://grabcad.com/library/agilex-robotics-scout-mini-robot-1)
 * [Autonomous Navigation using LiDAR and Agile X Robotics rneddojr](https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics)
 * [Comparative Analysis of ROS, PCL and Alternatives WIP](https://docs.google.com/spreadsheets/d/1fzyKzqSBKZZ2eaqhuFIce23chXcqQjamW7P-skc1OKw/edit?usp=sharing)
+* [MohawkLanguage.ca](https://www.MohawkLanguage.ca/)
 * [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
 * [NVIDIA Omniverse](https://docs.omniverse.nvidia.com/install-guide/latest/index.html)
 * [PointClouds.org](https://pointclouds.org/)
@@ -80,7 +82,19 @@ The results of this research will show the strengths and weaknesses of PCL and R
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- KANIENKEHA -->
+## Kanienkeha
+* kí:ken  / thí:ken     its
+* Ioronhió:ron     its cloudy
 
+ROBOT DESCRIPTIONS:
+* kahnháhtshera - a servant. 
+* konwáhnha's - they employ it. 
+* konwa'nikonhráta'as - they give it sense. 
+* karistotáties - metal that walks around. 
+* orokò:ta
+* orokótshera
+* Okwe teskaierontare kaia'ton;niserothatses
 
 <!-- CONTACT -->
 ## Contact
