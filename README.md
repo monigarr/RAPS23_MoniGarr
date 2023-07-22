@@ -88,18 +88,21 @@ The results of this research will show the strengths and weaknesses of PCL and R
 
 <!-- KANIENKEHA -->
 ## Kanienkeha
-* kí:ken - it's
-* thí:ken     - it's
-* Ioronhió:ron     - it's cloudy
+Kanien’kéha  <English Phonetic>  English
+-- note pronunciations are not verified yet 
+
+* kí:ken <ghee guh>  it's
+* thí:ken  <tee guh>  it's
+* Ioronhió:ron  <doh rloo hyoh rloo>  it's cloudy
 
 ROBOT DESCRIPTIONS:
-* kahnháhtshera - a servant
-* konwáhnha's - they employ it 
-* konwa'nikonhráta'as - they give it sense 
-* karistotáties - metal that walks around 
-* orokò:ta
-* orokótshera
-* Okwe teskaierontare kaia'ton:niserothatses (needs more verification. possibly West Dialect)
+* kahnháhtshera <gah not zeh la> a servant
+* konwáhnha's  <goon wah nah ah s> they employ it 
+* konwa'nikonhráta'as <goon wah knee gooh rlah dah ah s> they give it sense 
+* karistotáties <gah rlee stoh dah dyehs> metal that walks around 
+* orokò:ta <oh rloh go dah>
+* orokótshera  <oh rloh goat zeh la>
+* Okwe teskaierontare kaia'ton:niserothatses <oh gwe dehs guy eh rlooh n dah leh gah yah doohn knee zeh rloh dah t zehs> needs more verification. possibly West Dialect)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
