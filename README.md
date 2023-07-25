@@ -89,6 +89,7 @@ The results of this research will show the strengths and weaknesses of PCL and R
 * [Ros.org](https://ros.org/)
 * [Synthetic Data Generation](https://developer.nvidia.com/blog/developing-and-deploying-ai-powered-robots-with-nvidia-isaac-sim-and-nvidia-tao/)
 * [Unity Autonomous Navigation](https://resources.unity.com/automotive-transportation-manufacturing-content/unity-robotics-slam)
+* [Unity Autonomous Navigation Robotics Kit Tutorial](https://dev.epicgames.com/community/learning/courses/ynd/unreal-engine-let-s-train-virtual-robots/GewJ/get-started-creating-robots-in-unreal-engine)
 * [UnReal Engine Autonomous Navigation](https://www.unrealengine.com/en-US/search?keyword=autonomous%20navigation)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
