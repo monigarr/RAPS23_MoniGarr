@@ -32,7 +32,7 @@
     <li><a href="#abstract">Abstract</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#resources">Resources</a></li>
-    <li><a href="#kanienkeha">Kanien’kéha</a></li>
+    <li><a href="#kanienkeha">Kanienï¿½kï¿½ha</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -80,29 +80,31 @@ The results of this research will show the strengths and weaknesses of PCL and R
 * [Mathworks Autonomous Navigation](https://www.mathworks.com/videos/series/autonomous-navigation.html)
 * [MohawkLanguage.ca](https://www.MohawkLanguage.ca/)
 * [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
+* [NVIDIA Isaac Sim Tutorials](https://docs.omniverse.nvidia.com/isaacsim/latest/tutorial_ros2_navigation.html)
 * [NVIDIA Omniverse](https://docs.omniverse.nvidia.com/install-guide/latest/index.html)
 * [PointClouds.org](https://pointclouds.org/)
 * [RAPS 2023](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
 * [Ros.org](https://ros.org/)
+* [Synthetic Data Generation](https://developer.nvidia.com/blog/developing-and-deploying-ai-powered-robots-with-nvidia-isaac-sim-and-nvidia-tao/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- KANIENKEHA -->
 ## Kanienkeha
-Kanien’kéha  <English Phonetic>  English
+Kanienï¿½kï¿½ha  <English Phonetic>  English
 -- note pronunciations are not verified yet 
 
-* kí:ken <ghee guh>  it's
-* thí:ken  <tee guh>  it's
-* Ioronhió:ron  <doh rloo hyoh rloo>  it's cloudy
+* kï¿½:ken <ghee guh>  it's
+* thï¿½:ken  <tee guh>  it's
+* Ioronhiï¿½:ron  <doh rloo hyoh rloo>  it's cloudy
 
 ROBOT DESCRIPTIONS:
-* kahnháhtshera <gah not zeh la> a servant
-* konwáhnha's  <goon wah nah ah s> they employ it 
-* konwa'nikonhráta'as <goon wah knee gooh rlah dah ah s> they give it sense 
-* karistotáties <gah rlee stoh dah dyehs> metal that walks around 
-* orokò:ta <oh rloh go dah>
-* orokótshera  <oh rloh goat zeh la>
+* kahnhï¿½htshera <gah not zeh la> a servant
+* konwï¿½hnha's  <goon wah nah ah s> they employ it 
+* konwa'nikonhrï¿½ta'as <goon wah knee gooh rlah dah ah s> they give it sense 
+* karistotï¿½ties <gah rlee stoh dah dyehs> metal that walks around 
+* orokï¿½:ta <oh rloh go dah>
+* orokï¿½tshera  <oh rloh goat zeh la>
 * Okwe teskaierontare kaia'ton:niserothatses <oh gwe dehs guy eh rlooh n dah leh gah yah doohn knee zeh rloh dah t zehs> needs more verification. possibly West Dialect)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
