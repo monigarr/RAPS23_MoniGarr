@@ -76,8 +76,10 @@ The results of this research will show the strengths and weaknesses of PCL and R
 
 * [Augmented Reality View: 3D Agile X Scout Mini Robot](https://adobeaero.app.link/f4YSe6WpiBb) [3D Model by Yuan Shenghai](https://grabcad.com/library/agilex-robotics-scout-mini-robot-1)
 * [Autonomous Navigation using LiDAR and Agile X Robotics rneddojr](https://github.com/rneddojr/Autonomous-Navigation-using-LiDAR-and-Agile-X-Robotics)
+* [Blender Autonomous Navigation]()
 * [Comparative Analysis of ROS, PCL and Alternatives WIP](https://docs.google.com/spreadsheets/d/1fzyKzqSBKZZ2eaqhuFIce23chXcqQjamW7P-skc1OKw/edit?usp=sharing)
 * [Mathworks Autonomous Navigation](https://www.mathworks.com/videos/series/autonomous-navigation.html)
+* [Maya Autonomous Navigation]()
 * [MohawkLanguage.ca](https://www.MohawkLanguage.ca/)
 * [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim)
 * [NVIDIA Isaac Sim Tutorials](https://docs.omniverse.nvidia.com/isaacsim/latest/tutorial_ros2_navigation.html)
@@ -86,6 +88,8 @@ The results of this research will show the strengths and weaknesses of PCL and R
 * [RAPS 2023](https://sites.clarkson.edu/raps/2023/summer/what-are-the-comparative-advantages-and-limitations-of-using-the-point-cloud-library-pcl-and-the-robot-operating-system-ros-in-the-context-of-autonomous-navigation/)
 * [Ros.org](https://ros.org/)
 * [Synthetic Data Generation](https://developer.nvidia.com/blog/developing-and-deploying-ai-powered-robots-with-nvidia-isaac-sim-and-nvidia-tao/)
+* [Unity Autonomous Navigation](https://resources.unity.com/automotive-transportation-manufacturing-content/unity-robotics-slam)
+* [UnReal Engine Autonomous Navigation](https://www.unrealengine.com/en-US/search?keyword=autonomous%20navigation)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
